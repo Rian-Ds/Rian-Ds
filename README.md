@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, meu nome é Rian.</h1>
 <h3 align="center">Apaixonado por ciência e análise de dados no mundo digital</h3>
 
+- 🔭Atualmente estou buscando uma oportunidade para trabalhar com análise e visualização de dados
+  
 - 🌱 Atualmente estou aprendendo **Python , Ciência de Dados**
 
 - 📫Você me acha através do e-mail **rianaraujorp@gmail.com**
