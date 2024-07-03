@@ -10,9 +10,12 @@
 - 📄 Sobre minhas experiências [www.linkedin.com/in/rian-araujo-ti](www.linkedin.com /in/rian-araujo-ti)
 
 <h3 align="left">Conecte-se comigo:</h3>
-<a href="https://www.linkedin.com/in/rian-araujo-ti" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" />
-</a>
+<div style="display: inline">
+  <a href="https://www.linkedin.com/in/rian-araujo-ti" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" />
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" />
+</div>
 
 
 <h3 align="left">ferramentas:</h3>
