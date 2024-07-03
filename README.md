@@ -10,10 +10,10 @@
 - 📄 Sobre minhas experiências [www.linkedin.com/in/rian-araujo-ti](www.linkedin.com /in/rian-araujo-ti)
 
 <h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rian araujo " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in -alt.svg" alt="rian araujo" height="30" width="40" /></a>
-<a href="https://kaggle.com/rian araujo" target="blank">< img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rian araujo" altura ="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/rian-araujo-ti" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" />
+</a>
+
 
 <h3 align="left">ferramentas:</h3>
 <div style="display: inline">
@@ -25,8 +25,6 @@
 
 
 
-
-<p><img align="center" src="https://github-readme- stats.vercel.app/api/top-langs?username=rian-ds&show_icons=true&locale=en&layout=compact" alt="rian-ds" /></p>
 
 
 <!---
